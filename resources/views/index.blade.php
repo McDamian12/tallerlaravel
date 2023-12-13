@@ -3,7 +3,7 @@
 @section('vistasgenerales')
     <header class="bg-primary text-center py-5 mb-4">
         <div class="container">
-            <h1 class="fw-light text-white"></h1>
+            <h1 class="fw-light text-white">BIENVENIDO</h1>
         </div>
     </header>
 
