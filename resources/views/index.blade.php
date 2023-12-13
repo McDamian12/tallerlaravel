@@ -3,7 +3,7 @@
 @section('vistasgenerales')
     <header class="bg-primary text-center py-5 mb-4">
         <div class="container">
-            <h1 class="fw-light text-white">GESTION COMERCIAL</h1>
+            <h1 class="fw-light text-white"></h1>
         </div>
     </header>
 
@@ -14,9 +14,8 @@
             <div class="col-xl-3 col-md-6 mb-4">
                 <div class="card border-0 shadow">
                     <div class="card-body text-center">
-                        <h5 class="card-title mb-0">Listado de productos</h5>
-                        <div class="card-text text-black-50"><a class="btn btn-primary"
-                                href="{{ route('listar.producto') }}">Listado de productos</a></div>
+                        <h5 class="card-title mb-0">Pendiente # 1 </h5>
+                        <div class="card-text text-black-50"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim eos illum quae facere quidem possimus, libero cupiditate optio, sint autem incidunt ducimus ad quaerat ex voluptas modi. Quae, molestiae aliquid?</p></div>
                     </div>
                 </div>
             </div>
@@ -25,9 +24,8 @@
                 <div class="card border-0 shadow">
 
                     <div class="card-body text-center">
-                        <h5 class="card-title mb-0">Listado de clientes</h5>
-                        <div class="card-text text-black-50"><a class="btn btn-primary"
-                                href="{{ route('listar.cliente') }}">Listado de clientes</a></div>
+                        <h5 class="card-title mb-0">Pendiente # 2 </h5>
+                        <div class="card-text text-black-50"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim eos illum quae facere quidem possimus, libero cupiditate optio, sint autem incidunt ducimus ad quaerat ex voluptas modi. Quae, molestiae aliquid?</p></div>
                     </div>
                 </div>
             </div>
@@ -35,8 +33,8 @@
             <div class="col-xl-3 col-md-6 mb-4">
                 <div class="card border-0 shadow">
                     <div class="card-body text-center">
-                        <h5 class="card-title mb-0">Listado de categorias</h5>
-                        <a class="btn btn-primary" href="{{ route('listar.categoria') }}">Listado de categorias</a>
+                        <h5 class="card-title mb-0">Pendiente # 3 </h5>
+                        <div class="card-text text-black-50"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim eos illum quae facere quidem possimus, libero cupiditate optio, sint autem incidunt ducimus ad quaerat ex voluptas modi. Quae, molestiae aliquid?</p></div>
                     </div>
                 </div>
             </div>
@@ -44,8 +42,8 @@
             <div class="col-xl-3 col-md-6 mb-4">
                 <div class="card border-0 shadow">
                     <div class="card-body text-center">
-                        <h5 class="card-title mb-0">Listado de proveedores</h5>
-                        <a class="btn btn-primary" href="{{ route('listar.proveedor') }}">Listado de proveedores</a>
+                        <h5 class="card-title mb-0">Pendiente # 4 </h5>
+                        <div class="card-text text-black-50"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim eos illum quae facere quidem possimus, libero cupiditate optio, sint autem incidunt ducimus ad quaerat ex voluptas modi. Quae, molestiae aliquid?</p></div>
                     </div>
                 </div>
             </div>
@@ -56,8 +54,8 @@
             <div class="col-xl-3 col-md-6 mb-4">
                 <div class="card border-0 shadow">
                     <div class="card-body text-center">
-                        <h5 class="card-title mb-0">Listado de usuarios</h5>
-                        <a class="btn btn-primary" href="{{ route('listar.usuario') }}">Listado de usuarios</a>
+                        <h5 class="card-title mb-0">Pendiente # 5 </h5>
+                        <div class="card-text text-black-50"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim eos illum quae facere quidem possimus, libero cupiditate optio, sint autem incidunt ducimus ad quaerat ex voluptas modi. Quae, molestiae aliquid?</p></div>
                     </div>
                 </div>
             </div>
@@ -66,8 +64,8 @@
             <div class="col-xl-3 col-md-6 mb-4">
                 <div class="card border-0 shadow">
                     <div class="card-body text-center">
-                        <h5 class="card-title mb-0">Listado de roles</h5>
-                        <a class="btn btn-primary" href="{{ route('listar.rol') }}">Listado de roles</a>
+                        <h5 class="card-title mb-0">Pendiente # 6 </h5>
+                        <div class="card-text text-black-50"><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim eos illum quae facere quidem possimus, libero cupiditate optio, sint autem incidunt ducimus ad quaerat ex voluptas modi. Quae, molestiae aliquid?</p></div>
                     </div>
                 </div>
             </div>
